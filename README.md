@@ -1,4 +1,4 @@
-# AI Tools Recommender
+# AI Tools Educator (A Recommendation System)
 
 A comprehensive web-based platform for discovering, comparing, and getting personalized recommendations for AI-powered software tools. Built with React, Node.js, Express, MongoDB, and OpenAI integration.
 
